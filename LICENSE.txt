@@ -1,0 +1,16 @@
+XControl - Copyright (c) 2026 akrakib (https://akrakib.pages.dev/). All rights reserved.
+
+Permission is granted to download and use the XControl executable free of charge,
+for personal or commercial purposes, and to share it unmodified together with this
+license file.
+
+You may not sell XControl, or present it as your own work.
+The XControl source code is not published and no rights to it are granted.
+
+Nothing in this license limits your rights under the licenses of the third-party
+components included in XControl (see THIRD_PARTY_NOTICES.md), including your right
+under the LGPL to replace the Qt (PySide6) and PyAV/FFmpeg libraries and to reverse
+engineer the program as far as needed to debug such modifications.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT
+LIABLE FOR ANY DAMAGE OR DATA LOSS ARISING FROM ITS USE.
